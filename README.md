@@ -19,13 +19,13 @@ I made a web application with React JS with Firebase for user authentication sin
 
 ## Galery
 
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact-0.jpg)
+![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-0.jpg)
 
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact-1.jpg)
+![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-1.jpg)
 
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact-2.jpg)
+![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-2.jpg)
 
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact-3.jpg)
+![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-3.jpg)
 
 ## Portfolio Link
 
