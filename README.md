@@ -33,7 +33,4 @@ I made a web application with React JS with Firebase for user authentication sin
 
 ## Video
 
-
-
 https://user-images.githubusercontent.com/99032604/199866773-473a153c-375e-4b05-b9d6-d01b0728149b.mp4
-
