@@ -29,7 +29,7 @@ I made a web application with React JS with Firebase for user authentication sin
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Heroes%20app%20page`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Heroes%20App%20Page`
 
 ## Video
 
