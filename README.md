@@ -17,19 +17,9 @@ I made a web application with React JS with Firebase for user authentication sin
 2. CSS3
 3. FIREBASE
 
-## Galery
-
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-0.jpg)
-
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-1.jpg)
-
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-2.jpg)
-
-![heroes-App-Page](https://raw.githubusercontent.com/DiegoLibonati/DiegoLibonatiWeb/main/data/projects/React/Imagenes/heroesreact2-3.jpg)
-
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Heroes%20App%20Page`
+[`https://www.diegolibonati.com.ar/#/project/10`](https://www.diegolibonati.com.ar/#/project/10)
 
 ## Video
 
