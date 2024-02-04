@@ -1,7 +1,7 @@
 {
-  "name": "ejemplo-heroes",
+  "name": "heroes-app-page",
   "private": true,
-  "version": "0.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -21,6 +21,7 @@
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
+    "typescript": "^5.3.3",
     "vite": "^3.0.0"
   }
 }
