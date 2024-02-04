@@ -14,8 +14,9 @@ I made a web application with React JS with Firebase for user authentication sin
 ## Technologies used
 
 1. React JS
-2. CSS3
-3. FIREBASE
+2. Typescript
+3. CSS3
+4. FIREBASE
 
 ## Portfolio Link
 
