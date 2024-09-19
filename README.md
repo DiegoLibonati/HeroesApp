@@ -1,4 +1,4 @@
-# Heroes-App-Page
+# HeroesApp
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ I made a web application with React JS with Firebase for user authentication sin
 
 ## Portfolio Link
 
-[`https://www.diegolibonati.com.ar/#/project/10`](https://www.diegolibonati.com.ar/#/project/10)
+[`https://www.diegolibonati.com.ar/#/project/HeroesApp`](https://www.diegolibonati.com.ar/#/project/HeroesApp)
 
 ## Video
 
