@@ -65,7 +65,7 @@ The full list of runtime and development dependencies is split below into two bl
 "react": "^19.2.4"
 "react-dom": "^19.2.4"
 "react-icons": "^4.4.0"
-"react-router-dom": "7.13.2"
+"react-router": "7.16.0"
 ```
 
 #### devDependencies
